@@ -24,7 +24,7 @@ dependencies = [
     # Harbor runtime
     "harbor>=0.6.4",
     # LangSmith for observability
-    "langsmith>=0.8.1",
+    "langsmith>=0.8.3",
     # Sandbox runtimes
     "dockerfile-parse>=2.0.1",
     "modal>=0.64.0",
@@ -43,7 +43,7 @@ dependencies = [
     "langchain-xai>=1.2.2",
     # Eval-specific dependencies
     "datasets>=3.0.0",
-    "nltk>=3.9.0",
+    "nltk>=3.9.4",
     "openevals>=0.2.0",
     "tiktoken>=0.8.0",
     "langchain-repl",
